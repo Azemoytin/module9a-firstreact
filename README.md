@@ -13,4 +13,5 @@ This is a React app created using Vite that renders a UserProfile component. The
 I had issues with the profile image and text not showing up, but after inspecting the elements, I discovered that the `<h1>` text was not visible because by default the text was a white color. I fixed it by applying a dark color directly to the heading style and profile image.
 
 ## Screenshot
-[Screenshot 2025-07-26 at 12.48.58 PM.zip](https://github.com/user-attachments/files/21448371/Screenshot.2025-07-26.at.12.48.58.PM.zip)
+<img width="1728" height="1117" alt="Screenshot 2025-07-26 at 12 48 58 PM" src="https://github.com/user-attachments/assets/83f888f7-48f4-4159-95c7-c78ac44ceed1" />
+
